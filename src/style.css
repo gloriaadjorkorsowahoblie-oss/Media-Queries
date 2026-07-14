@@ -108,8 +108,17 @@ Do not delete any of the above code. */
 
 
 @media screen and (max-width: 786px){
+  /* c1 styling for mobile */
   .light-box{
     background-color: green;
     color: white;
   }
+
+  /* C2 styling for mobile  */
+.layout-wrapper{
+  flex-direction: column;
+}
+
+
+
 }
